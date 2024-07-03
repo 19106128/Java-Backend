@@ -1,0 +1,7 @@
+The Backend application is created with springboot
+it's an maven project
+The war file is created in the target folder for deploy it in an tomcat server.
+
+For Get method: http://localhost:8080/api/products/search?name=Samsung
+For POST method: http://localhost:8080/api/products/create
+

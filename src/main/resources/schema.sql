@@ -1,0 +1,9 @@
+--CREATE DATABASE productdb;
+--
+--USE productdb;
+--
+--CREATE TABLE products (
+--    prod_id BIGINT AUTO_INCREMENT PRIMARY KEY,
+--    prod_name VARCHAR(255) NOT NULL,
+--    unit_cost INT NOT NULL
+--);
